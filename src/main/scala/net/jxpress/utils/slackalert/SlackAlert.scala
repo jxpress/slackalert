@@ -3,12 +3,8 @@ package net.jxpress.utils.slackalert
 import org.json4s.NoTypeHints
 import org.json4s.jackson.Serialization
 
-import scala.concurrent.{Await, ExecutionContext, Future}
-import scala.util.{Failure, Success}
+import scala.concurrent.{ExecutionContext, Future}
 import scalaj.http.{Http, HttpOptions}
-
-
-
 
 /** アラートのケースクラス
   *
