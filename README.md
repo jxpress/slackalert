@@ -14,4 +14,5 @@ libraryDependencies += "net.jxpress" % "slackalert_2.11" % "0.0.3"
 
 ## 使い方
 
-src/test/scala/net/jxpress/utils/slackalert/SampleCode.scala
+https://github.com/jxpress/slackalert/blob/master/src/test/scala/net/jxpress/utils/slackalert/SampleCode.scala
+
